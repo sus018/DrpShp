@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "847661783808",
+    "firebase_url": "https://drpshp-1b549.firebaseio.com",
+    "project_id": "drpshp-1b549",
+    "storage_bucket": "drpshp-1b549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847661783808:android:a7265d5c7fabdd3725f1e5",
+        "android_client_info": {
+          "package_name": "com.example.dropshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847661783808-fr22bkk3qf2b1jqud0i6ccdih0jd9bal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQvE2rxJQUBcHE0DRNyThvcYXKX67z2Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847661783808-fr22bkk3qf2b1jqud0i6ccdih0jd9bal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847661783808:android:2094ffb1d555019925f1e5",
+        "android_client_info": {
+          "package_name": "com.susmita.drpshp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847661783808-lidbud9jakhjekman56qgkohuvs7vgmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.susmita.drpshp",
+            "certificate_hash": "ac9cb654a9a245d5d94515db879977060633c9c1"
+          }
+        },
+        {
+          "client_id": "847661783808-fr22bkk3qf2b1jqud0i6ccdih0jd9bal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQvE2rxJQUBcHE0DRNyThvcYXKX67z2Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847661783808-fr22bkk3qf2b1jqud0i6ccdih0jd9bal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
